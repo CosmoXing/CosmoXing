@@ -18,11 +18,11 @@
 
 ## 🖥️ 关于我
 
-- 🌱 正在做 **XXX** 项目
-- 🔭 正在学习 **XXX**
+- 🌱 正在做 **XingBlog** 项目
+- 🔭 正在学习 **JAVA**
 - 💬 欢迎交流 **Java / Python / 前端 / C/C++**
 - ⚡ 关键词：**自驱、长期主义、热爱开源**
-- ⚠️ 正在做的小项目 → **[项目名](链接)**
+- ⚠️ 正在做的小项目 → **[XingBlog](链接)**
 
 ---
 
@@ -150,8 +150,8 @@
 | 分类 | 链接 |
 | :--- | :--- |
 | 主页 | [github.com/CosmoXing](https://github.com/CosmoXing) |
-| 博客 | [your-blog.com](https://your-blog.com) |
-| 邮箱 | [your@email.com](mailto:your@email.com) |
+| 博客 | [your-blog.com]([https://xingblog.pages.dev/]) |
+| 邮箱 | [your@email.com](jison747@gmail.com) |
 
 ---
 
