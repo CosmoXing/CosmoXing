@@ -157,8 +157,8 @@
 ## 🖼️ 技术栈全景图
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./CosmoXing/tech-banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./CosmoXing/tech-banner-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="CosmoXing/tech-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="CosmoXing/tech-banner-light.svg">
     <img alt="Tech Stack" src="./assets/tech-banner-dark.svg" width="100%"/>
   </picture>
 </p>
