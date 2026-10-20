@@ -150,8 +150,8 @@
 | 分类 | 链接 |
 | :--- | :--- |
 | 主页 | [github.com/CosmoXing](https://github.com/CosmoXing) |
-| 博客 | [your-blog.com]([https://xingblog.pages.dev/]) |
-| 邮箱 | [jison747@gmail.com]) |
+| 博客 | https://xingblog.pages.dev/|
+| 邮箱 | jison747@gmail.com |
 
 ---
 
