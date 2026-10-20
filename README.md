@@ -9,7 +9,6 @@
 <p>
   <img src="https://img.shields.io/badge/Email-jison747@gamil.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   <img src="https://img.shields.io/badge/Blog-https://xingblog.pages.dev/-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
-  <img src="https://img.shields.io/badge/Gitee-你的Gitee-blue?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"/>
 </p>
 
 </div>
