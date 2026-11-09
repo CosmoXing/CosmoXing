@@ -90,45 +90,6 @@
 
 ---
 
-## 📊 数据统计
-
-<div align="center">
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CosmoXing&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CosmoXing&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Contribution Graph"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmoXing&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=CosmoXing&theme=onedark&no-frame=true&column=7" alt="Trophy"/>
-</p>
-
-</div>
-
----
-
-## 📈 最近动态
-
-<div align="center">
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmoXing&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CosmoXing&theme=github_dark" alt="Profile Details"/>
-</p>
-
-</div>
-
----
 
 ## 💬 最后
 
